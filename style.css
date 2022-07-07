@@ -58,13 +58,13 @@ body {
     text-align: center;
     margin: 10%;
     margin-top: 0%;
-    margin-bottom: 0%;    
+    margin-bottom: 0%;
 }
 
 .donate-amount .box {
     width: calc(400px - 30);
     height: calc(300px - 30);
-    background:gray;
+    background: gray;
     margin: 10px;
     padding: 50px 20px;
     box-sizing: border-box;
@@ -78,7 +78,7 @@ body {
     opacity: 30%;
 }
 
-.amount-donate-button{
+.amount-donate-button {
     text-decoration: none;
     display: inline-block;
     padding: 10px 20px;
@@ -89,7 +89,7 @@ body {
     margin-top: 20px;
 }
 
-.donate-plan{
+.donate-plan {
     margin-top: 100px;
     text-align: center;
     font-size: 40px;
@@ -97,26 +97,26 @@ body {
     margin-right: 10%;
 }
 
-.card{
+.card {
     display: flex;
     padding: 20px;
     margin-left: 10%;
     margin-right: 10%;
 }
 
-.card-icon{
+.card-icon {
     margin-top: 50px;
 }
 
 
-.card-headding{
+.card-headding {
     font-size: 40px;
     text-align: left;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
 
-.card-text{
+.card-text {
     font-size: 30px;
     text-align: justify;
 }
@@ -132,8 +132,9 @@ body {
     overflow: hidden;
     box-sizing: border-box;
     padding: 30px;
-    
+
 }
+
 .shelter-card {
     margin: 10px;
     background: #FF5959;
@@ -145,8 +146,9 @@ body {
     overflow: hidden;
     box-sizing: border-box;
     padding: 30px;
-    
+
 }
+
 .education-card {
     margin: 10px;
     background: aqua;
@@ -158,10 +160,10 @@ body {
     overflow: hidden;
     box-sizing: border-box;
     padding: 30px;
-    
+
 }
 
-.footer{
+.footer {
     height: 200px;
     width: 100%;
     background-color: black;
@@ -170,8 +172,8 @@ body {
     font-size: xx-large;
 }
 
-.footer h2{
+.footer h2 {
     color: aliceblue;
     font-size: 30px;
-    
+
 }
